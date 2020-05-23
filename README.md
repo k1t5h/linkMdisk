@@ -1,3 +1,4 @@
 # linkMdisk
 plugin to connect  Mdisk player  on your desktop
-Designing architecture
+
+1.Designing architecture
